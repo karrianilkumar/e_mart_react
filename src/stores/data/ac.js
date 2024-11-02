@@ -1,7 +1,8 @@
-export const acData = [{
+export const acData = [
+    {
         "id": "1",
         "product": "Air Conditioner",
-        "image": "/assets/Ac/1.jpg",
+        "image": "https://karrianilkumar.github.io/e_mart_react/assets/Ac/1.jpg",
         "company": "LG",
         "model": "CoolTech 5000",
         "price": "799.99",
@@ -11,7 +12,7 @@ export const acData = [{
     {
         "id": "2",
         "product": "AC Unit",
-        "image": "/assets/Ac/2.jpg",
+        "image": "https://karrianilkumar.github.io/e_mart_react/assets/Ac/2.jpg",
         "company": "Daikin",
         "model": "ClimateMaster Pro",
         "price": "1299.00",
@@ -21,7 +22,7 @@ export const acData = [{
     {
         "id": "3",
         "product": "Cooling System",
-        "image": "/assets/Ac/3.jpg",
+        "image": "https://karrianilkumar.github.io/e_mart_react/assets/Ac/3.jpg",
         "company": "Carrier",
         "model": "Arctic Breeze 300",
         "price": "899.99",
@@ -31,7 +32,7 @@ export const acData = [{
     {
         "id": "4",
         "product": "Air Cooler",
-        "image": "/assets/Ac/4.jpg",
+        "image": "https://karrianilkumar.github.io/e_mart_react/assets/Ac/4.jpg",
         "company": "Honeywell",
         "model": "FrostFlow XL",
         "price": "299.50",
@@ -41,7 +42,7 @@ export const acData = [{
     {
         "id": "5",
         "product": "Window AC",
-        "image": "/assets/Ac/5.jpg",
+        "image": "https://karrianilkumar.github.io/e_mart_react/assets/Ac/5.jpg",
         "company": "Whirlpool",
         "model": "ChillGuard 800",
         "price": "549.00",
@@ -51,7 +52,7 @@ export const acData = [{
     {
         "id": "6",
         "product": "Smart AC",
-        "image": "/assets/Ac/6.jpg",
+        "image": "https://karrianilkumar.github.io/e_mart_react/assets/Ac/6.jpg",
         "company": "Nest",
         "model": "EcoCool Smart+",
         "price": "899.99",
@@ -61,7 +62,7 @@ export const acData = [{
     {
         "id": "7",
         "product": "Inverter AC",
-        "image": "/assets/Ac/7.jpg",
+        "image": "https://karrianilkumar.github.io/e_mart_react/assets/Ac/7.jpg",
         "company": "Mitsubishi",
         "model": "SilentComfort 1200i",
         "price": "1499.00",
@@ -71,7 +72,7 @@ export const acData = [{
     {
         "id": "8",
         "product": "Portable AC",
-        "image": "/assets/Ac/8.jpg",
+        "image": "https://karrianilkumar.github.io/e_mart_react/assets/Ac/8.jpg",
         "company": "Frigidaire",
         "model": "EZCool Portable 400",
         "price": "399.99",
@@ -81,7 +82,7 @@ export const acData = [{
     {
         "id": "9",
         "product": "Ducted AC",
-        "image": "/assets/Ac/9.jpg",
+        "image": "https://karrianilkumar.github.io/e_mart_react/assets/Ac/9.jpg",
         "company": "Lennox",
         "model": "PureAir Ducted 6000",
         "price": "2499.00",
@@ -91,7 +92,7 @@ export const acData = [{
     {
         "id": "10",
         "product": "Wall-Mount AC",
-        "image": "/assets/Ac/10.jpg",
+        "image": "https://karrianilkumar.github.io/e_mart_react/assets/Ac/10.jpg",
         "company": "Panasonic",
         "model": "WallMaster Pro 1800",
         "price": "749.00",
@@ -101,7 +102,7 @@ export const acData = [{
     {
         "id": "11",
         "product": "Split AC",
-        "image": "/assets/Ac/11.jpg",
+        "image": "https://karrianilkumar.github.io/e_mart_react/assets/Ac/11.jpg",
         "company": "Haier",
         "model": "CoolWave Split 220",
         "price": "649.50",
@@ -111,7 +112,7 @@ export const acData = [{
     {
         "id": "12",
         "product": "Central AC",
-        "image": "/assets/Ac/12.jpg",
+        "image": "https://karrianilkumar.github.io/e_mart_react/assets/Ac/12.jpg",
         "company": "Trane",
         "model": "ClimateCentral 5000",
         "price": "2999.00",
@@ -119,3 +120,4 @@ export const acData = [{
         "description": "Powerful central AC unit for large homes with zone-based temperature control."
     }
 ]
+
