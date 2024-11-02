@@ -1,0 +1,8 @@
+# if we have the react router dom functionalith in our react application in theat we case we have to create this file in our project folder 
+
+[[redirects]] 
+
+from = "/*"
+to = "/index.html" 
+status = 200 
+
