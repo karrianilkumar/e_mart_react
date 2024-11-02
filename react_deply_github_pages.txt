@@ -3,7 +3,7 @@
 install this in your project 1st  : 
 npm install gh-pages --save-dev 
 
-==> push your local repo into the remote repo of the reactjs project code 
+==> push your local repo into the remote repo of the reactjs project code using the github commands 
 
 ==================================================================================================> 
 ==> in package.json file add below new lines : 
@@ -25,7 +25,9 @@ npm install gh-pages --save-dev
 
 after that run this command in the reactjs project folder  : 
 npm run deploy 
-setting ==> pages 
+
+===> tracing in github to get the generated deployment link :
+in current project git repo goto ==>  settings ==> pages if we refresh this pages  page then we will get the deplyment link actally this deployment link & the homepage link we have given in the package.json file both are same  
  
  
  
@@ -33,7 +35,8 @@ project deployment link : https://karrianilkumar.github.io/e_mart_react/
  
  
 ==================================================================================================> 
-
+==> it is better to save all the images in pulic folder only
+==> after deployment of the project sometimes we have to change the image relative paths in the  files becaz generally github pages can't understand the reletive paths of the project in that case we have to change reletive paths by the github repo paths of images/video/audio etc. 
 
 
 
