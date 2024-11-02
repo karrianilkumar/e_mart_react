@@ -1,0 +1,6 @@
+--> setup the search box 
+--> order button 
+--> payment integration 
+--> portfolio 
+--> signin & singup
+--> database connection 
